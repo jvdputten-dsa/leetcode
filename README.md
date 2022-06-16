@@ -1,2 +1,4 @@
 # leetcode
-solutions to leetcode problems i have solved
+solutions to leetcode problems I have solved
+The problems have been subdivided into categories
+
